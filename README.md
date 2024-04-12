@@ -8,6 +8,4 @@ Words Model is made with Squeeze Net Architecture to save computational power an
 
 Yet, The simpler seems better, a custom architecture gives better results, I will update later
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mattral&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
+
