@@ -6,6 +6,6 @@ Deployed on [Hugging Face Spaces](https://huggingface.co/spaces/Mattral/MM-Digit
 
 Words Model is made with Squeeze Net Architecture to save computational power and time, the alternative of extracting features with ResNets and saving to CSV file for training on different architectures while saving computational complexity, 
 
-Yet, The simpler seems better, a custom architecture gives better results, I will update later
+Yet, The simpler seems better, a custom architecture gives better results, I will update later.
 
 
